@@ -2,8 +2,6 @@
 I am a computer science enthusiast . I'm all about computers and stuff. Along my journey, I've dabbled in various topics and am doing my best to turn that knowledge into cool stuff.
 	
   • 💻 Always up to something interesting.
-  
-  • 📍 Currently getting the hang of Azure through the Microsoft Future Ready Program.
 
 ## Projects I've Worked On
 + Personal Portfolio
