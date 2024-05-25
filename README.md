@@ -5,7 +5,6 @@ I am a computer science enthusiast . I'm all about computers and stuff. Along my
 
 ## Projects I've Worked On
 + Personal Portfolio
-+ A sneaky steganongraphy tool
 + To-do list
 > More projects are in the pipeline...
 
